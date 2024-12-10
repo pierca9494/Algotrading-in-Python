@@ -154,6 +154,16 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+algorithmic-trading/
+.ipynb_checkpoints/
+sp_500_stocks.csv
+**/secrets.py
+.DS_Store
+__pycache__
+**/recommended_trades.xlsx
+**/momentum_strategy.xlsx
+venv/
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
